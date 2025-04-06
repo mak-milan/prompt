@@ -23,9 +23,7 @@ body{
 #col1{
     min-height: 700px;
     max-width: 600px;
-    background-image: url('photo_2025-03-08_14-35-57.jpg');
     background-size: cover;
-    padding: 100px;
 }
 #col14{
     background-image: url('photo_2025-03-08_15-03-47.jpg');
@@ -61,6 +59,10 @@ h6 {
     font-family: 'MyFont2', fallback_fonts;
     margin-top: 60px;
     margin-right: 60%;
+}
+
+#colte{
+    margin-bottom: 40px;
 }
 
 h5{
